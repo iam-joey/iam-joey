@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darwin</h1>
+<h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A passionate Full-Stcak developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdarwinsai&label=Profile%20views&color=0e75b6&style=flat" alt="iamdarwinsai" /> </p>
