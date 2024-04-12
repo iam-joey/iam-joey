@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A passionate Full-Stcak developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdarwinsai&label=Profile%20views&color=0e75b6&style=flat" alt="iamdarwinsai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-joey&label=Profile%20views&color=0e75b6&style=flat" alt="iam-joey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdarwinsai" alt="iamdarwinsai" /></a> </p>
 
