@@ -3,27 +3,28 @@
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/hsk11dev?label=Follow)](https://twitter.com/Xploiter_py)
-[![Linkedin: Harpal Singh](https://img.shields.io/badge/-hsk11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsk11)](https://www.linkedin.com/in/hsk11/)
-[![GitHub followers](https://img.shields.io/github/followers/hsk11?label=Follow&style=social)](https://github.com/hsk11)
+[![Linkedin: Harpal Singh](https://www.linkedin.com/in/darwin-y-8abaa72b9/)
 ---
 
-I'm an experienced Full-Stack Software Engineer but more inclined towards backend software development. I enjoy building software,  SAAS, doing System Design, Managing Products,  and frameworks from scratch.  
+I'm an experienced Full-Stack Software Engineer but more inclined towards backend software development. I enjoy building software,  SAAS, doing System Design, Managing Products from scratch.  
 
+- 🌱 I’m currently learning Solana Devlopment 
 
 
 ## :electric_plug::desktop_computer: Tech Stack
-- Pogramming Languages : Javascript, Node.js, Golang , Python , Php
-- DB : Mysql, SQL, MongoDb, DynomoDb
-- Tech : NodeJS, React.js, RabbitMbQ, Kafka, Vue.js, Jai.js, amqp, wordpress, shopify
-
-
+- Pogramming Languages : Typescript, Node.js, Rust 
+- DB : Mysql, Postgresql, MongoDb
+- Front-End : React-js, NextJs, Tailwind css
+- Back-End  : ExpressJs, Axum(Rust), Prisma , Kafka, Redis, RabbitMQ
+- Other     : Turborepo, Github Actions, Docker, Nginx, Linux, AWS 
+   
 <details>
 <summary>⚡️ More about my github profile</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsk11&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-joey&layout=compact&hide=css,html)
 
-![Harpal Singh's github stats](https://github-readme-stats.vercel.app/api?username=hsk11&count_private=true&show_icons=true&theme=onedark)
+![Harpal Singh's github stats](https://github-readme-stats.vercel.app/api?username=iamjoey&count_private=true&show_icons=true&theme=onedark)
 
 </details>
 
