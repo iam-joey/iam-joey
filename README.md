@@ -1,9 +1,8 @@
-# Hi there 👋, I'm Harpal Singh
+# Hi there 👋, I'm JOEY
 
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/hsk11dev?label=Follow)](https://twitter.com/Xploiter_py)
-[![Linkedin: iamjoey](https://www.linkedin.com/in/darwin-y-8abaa72b9/)
 ---
 
 I'm an experienced Full-Stack Software Engineer but more inclined towards backend software development. I enjoy building software,  SAAS, doing System Design, Managing Products from scratch.  
