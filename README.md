@@ -2,7 +2,7 @@
 
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/hsk11dev?label=Follow)](https://twitter.com//iamjoey_sol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hsk11dev?label=Follow)](https://twitter.com/iamjoey_sol)
 ---
 
 I'm an experienced Full-Stack Software Engineer but more inclined towards backend software development. I enjoy building software,  SAAS, doing System Design, Managing Products from scratch.  
